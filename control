@@ -1,0 +1,9 @@
+Package: com.strugglingdoge.happywheelshack
+Name: HappyWheelsHack
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: This is a GodMode hack for Happy Wheels, works as of 4/11/19
+Maintainer: StrugglingDoge
+Author: StrugglingDoge
+Section: Tweaks
